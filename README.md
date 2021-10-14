@@ -31,3 +31,9 @@ canIterate(null); // false
 canIterate(10); // false
 canIterate("Netology"); // true
 ```
+
+### *Generator`s
+
+[![Build status](https://ci.appveyor.com/api/projects/status/fimcg1ioxbfh1v0j/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-11-3-j2n53/branch/main)
+
+---
